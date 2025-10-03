@@ -23,5 +23,3 @@ HaloOS
 AUTOSAR
 
 零跑
-
-桦加沙
